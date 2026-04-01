@@ -34,16 +34,6 @@ body.no-scroll {
   width: 100%;
 }
 
-body.home-page {
-  background-color: #fff; /* Белый фон при загрузке */
-  opacity: 1;
-  transition: opacity 1s ease-in-out; /* Плавное проявление */
-}
-
-/* Класс, который мы добавим через JS */
-body.is-ready {
-  opacity: 1;
-}
 
 h2 {
   font-size: 64px;
